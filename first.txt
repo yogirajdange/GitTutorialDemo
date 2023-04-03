@@ -1,3 +1,7 @@
 This is version 1 of my project.
 
 I want this to go into commit 2.
+
+I love to learn git................
+
+i am having fun learning git.........
